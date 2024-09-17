@@ -1,0 +1,2 @@
+public class mierda {
+}
