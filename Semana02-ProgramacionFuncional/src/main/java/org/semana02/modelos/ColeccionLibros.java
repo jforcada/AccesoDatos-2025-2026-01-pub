@@ -2,6 +2,7 @@ package org.semana02.modelos;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 
 public class ColeccionLibros {
 
@@ -28,12 +29,12 @@ public class ColeccionLibros {
     }
 
     //3. Listar el título de todos aquellos libros con más de 500 páginas.
-    public ArrayList<String> listarLibrosMas500Paginas() {
+    public List<String> listarLibrosMas500Paginas() {
         return null;
     }
 
     //4. Obtener el título de los 3 libros con mayor número de páginas.
-    public ArrayList<String> listarTresLibrosMasPaginas() {
+    public List<String> listarTresLibrosMasPaginas() {
         return null;
     }
 
@@ -44,12 +45,12 @@ public class ColeccionLibros {
     }
 
     //6. Obtener todos aquellos libros que superen el promedio en cuanto a número de páginas se refiere.
-    public ArrayList<Libro> listarLibrosMasPaginasPromedio() {
+    public List<Libro> listarLibrosMasPaginasPromedio() {
         return null;
     }
 
     //7. Obtener los autores de todos los libros, sin repetir nombres de autores.
-    public ArrayList<String> listarAutores() {
+    public List<String> listarAutores() {
         return null;
     }
 
@@ -59,12 +60,12 @@ public class ColeccionLibros {
     }
 
     //9. Obtener una colección con todos los títulos de los libros.
-    public ArrayList<String> listarTitulos() {
+    public List<String> listarTitulos() {
         return null;
     }
 
     //10. Obtener los autores que tengan más de 1 libro listado.
-    public ArrayList<String> listarAutoresConMasDeUnLibro() {
+    public List<String> listarAutoresConMasDeUnLibro() {
         return null;
     }
 }
